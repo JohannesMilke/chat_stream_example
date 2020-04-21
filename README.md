@@ -1,12 +1,9 @@
 # Flutter Chat API with Stream Chat
-Write a Flutter chat application by using Stream Chat API which handles most things out of the box for you.
-
+In this video, using the Stream API, we use their chat product and Flutter components to make a multi-room, real-time chat application. Stream creates a fast and easy way to integrate scalable, customizable live chat into your application using Flutter. 
 
 Twitter: [@JohannesMilke](https://twitter.com/JohannesMilke "Twitter Johannes Milke")
 
 Medium: https://medium.com/@johannesmilke
-
-In this video, using the Stream API, we use their chat product and Flutter components to make a multi-room, real-time chat application. Stream creates a fast and easy way to integrate scalable, customizable live chat into your application using Flutter. 
 
 ► Stream Chat: https://getstream.io/chat/
 
