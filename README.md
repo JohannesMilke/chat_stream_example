@@ -6,6 +6,16 @@ Twitter: [@JohannesMilke](https://twitter.com/JohannesMilke "Twitter Johannes Mi
 
 Medium: https://medium.com/@johannesmilke
 
+In this video, using the Stream API, we use their chat product and Flutter components to make a multi-room, real-time chat application. Stream creates a fast and easy way to integrate scalable, customizable live chat into your application using Flutter. 
+
+► Stream Chat: https://getstream.io/chat/
+
+► Stream's Flutter Chat Tutorial: https://getstream.io/chat/flutter/tutorial/
+
+► Stream's Flutter Social Network Tutorial: https://getstream.io/blog/stream-flutter-building-a-social-network-with-flutter-direct-messaging/
+
+► Flutter: https://flutter.dev/
+
 ##### [YouTube video](https://www.youtube.com/watch?v=3oGLuM_--Uo "Youtube Johannes Milke") where the *source code* is explained. [Subscribe to our YouTube channel.](http://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1 "YouTube Subscribe Johannes Milke")  
 <a href="https://www.youtube.com/watch?v=3oGLuM_--Uo&feature=player_embedded
 " target="_blank"><img src="http://img.youtube.com/vi/3oGLuM_--Uo/maxresdefault.jpg" 
